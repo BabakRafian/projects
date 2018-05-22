@@ -48,4 +48,13 @@
     font-style: normal;
     text-align: center;
   }
+  table{
+    table-layout: fixed;
+    width: 600px;
+}
+
+  td, th {
+    border: .1px solid lightgrey;
+    width: 300px;
+}
 }

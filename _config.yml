@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Projects
+description:    "Babak Rafian project's portal"
+baseurl:        "/projects"
+url:            "https://babakrafian.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Babak Rafian
+  url:          https://babakrafian.github.io
+  email:        babak.rafian@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -22,6 +22,7 @@ sass:
 plugins:
   - jekyll-paginate
 
+theme:      tale
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
