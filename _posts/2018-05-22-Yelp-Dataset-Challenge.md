@@ -36,24 +36,7 @@ components. And then model is trained based on
 the calculated matrix. In the following sections you will
 find the detailed explanation of each step and the model
 evaluation at the end.
-## RELATED WORK
-Previously with Yelp Dataset, Recommendation system
-based on Users Rating based comment has been
-developed since recommendation system is crucial topic
-in terms of academic and commercial interest. It takes
-significant attention in the area of data mining and
-machine learning in todays world. In our work, we only
-focus on the predicting positivity of users comment of
-restaurant in Yelp Dataset.
-Recommendation system can be analyzed under 3
-main branch. Those are content-based Filtering (CB) ,
-collaborative filtering (CF) and the hybrid system of
-content-based filtering and collaborative filtering [1].
-The idea behind content-based filtering algorithm is
-coming from similarities between predefined features
-for items and profile of users preferences [2]. Whereas,
-Collaborative filtering technique depends on previous
-ratings from users to items.
+
 ## DATASET
 The data provided by Yelp is called “yelp review”
 dataset which is extracted from their database. The
